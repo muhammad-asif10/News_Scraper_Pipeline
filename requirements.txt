@@ -1,0 +1,7 @@
+playwright
+fake_useragent
+nltk
+bs4
+pymongo
+spacy
+pandas
